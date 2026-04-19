@@ -1,27 +1,74 @@
-<h1>Loja Dragon-Ball</h1>
-<h3>Desenvolvimento Web - Prof:Bruno</h3>
+# 🐉 Loja Dragon Ball
 
+🛒 Projeto de loja virtual desenvolvido para a disciplina de Desenvolvimento Web  
+👨‍🏫 Professor: Bruno  
 
-<a href="https://helder-virissio.github.io/Loja-DragonStore/index.html">Link do Site</a>
+---
 
-<p>Membros:<br> Kayke Alencar Silva, <br> Gabriel  Benatto Alencar Stolses,<br> Helder Virissio Araujo,<br> Arthur de Oliveira Borges,<br> Diego Lima Henrique,<br> Vitor Antonio Romulaldo</p>
+## 🔗 Acesse o projeto
 
+👉 https://helder-virissio.github.io/Loja-DragonStore/index.html
 
-<br/>
-<h4>Sobre o Projeto</h4>
-<p>Aqui você encontrará nossa loja de produtos de DragonBall. <br> Nesta loja nós a desenvolvemos por meio de html, css e javascript. Utilizamos também Framework Bootstrap
-  <br> Nossa Pagina consta com os seguintes botões: "Home","Sobre","Cadastro","Carrinho de compras" e "login.</p>
-<br>
+---
 
-<img width=625, heigth=625 src="https://github.com/user-attachments/assets/bd948989-0a5d-4008-ae75-0179b6073329">
+## 📖 Sobre o projeto
 
+Este projeto consiste em uma loja virtual temática de **Dragon Ball**, desenvolvida com o objetivo de aplicar conceitos de desenvolvimento web.
 
+A aplicação simula um ambiente de e-commerce, com navegação entre páginas e funcionalidades básicas de interface.
 
-  <h2>👨‍💻-Linguagens de programação</h2>
-  <div >
-    <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
-    <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
-    <img width="50" heigth="50" src="https://devicon-website.vercel.app/api/bootstrap/original.svg"/>
-    <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-  </div>
+---
 
+## 🚀 Funcionalidades
+
+- 🏠 Página inicial (Home)  
+- ℹ️ Página Sobre  
+- 📝 Cadastro de usuários  
+- 🛒 Carrinho de compras  
+- 🔐 Sistema de login  
+- 📱 Layout responsivo com Bootstrap  
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- Bootstrap  
+- Git e GitHub  
+
+---
+
+## 👥 Integrantes do Grupo
+
+- 👨‍💻 Kayke Alencar Silva  
+- 👨‍💻 Gabriel Benatto Alencar Stolses  
+- 👨‍💻 Helder Virissio Araújo  
+- 👨‍💻 Arthur de Oliveira Borges  
+- 👨‍💻 Diego Lima Henrique  
+- 👨‍💻 Vitor Antonio Romulaldo  
+
+---
+
+## 📸 Preview
+
+![Preview](https://github.com/user-attachments/assets/bd948989-0a5d-4008-ae75-0179b6073329)
+
+---
+
+## 🎯 Objetivo acadêmico
+
+Este projeto tem como objetivo praticar o desenvolvimento de interfaces web, organização de páginas e aplicação de conceitos básicos de interação com JavaScript.
+
+---
+
+## 📌 Observação
+
+Projeto acadêmico desenvolvido em grupo, com foco em aprendizado e evolução contínua.
+
+---
+
+## 💡 Filosofia
+
+> _"Grandes projetos começam com ideias simples."_
