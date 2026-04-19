@@ -1,7 +1,7 @@
 # 🐉 Loja Dragon Ball
 
 🛒 Projeto de loja virtual desenvolvido para a disciplina de Desenvolvimento Web  
-👨‍🏫 Professor: Bruno  
+👨‍🏫 Prof. Dr. Bruno Zolotareff dos Santos
 
 ---
 
